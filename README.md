@@ -1,1 +1,2 @@
 # gitfirst
+prototype of git
